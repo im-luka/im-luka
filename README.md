@@ -8,7 +8,7 @@
 
 - 🔭 I spend most of my time working with React and Next.js
 
-- 🌱 I'm really interested in web3 and blockchain
+- 🌱 I'm really interested in learning web3 and blockchain
 
 - 🤖 All of my projects are available at [Recode X](https://recode-xy.web.app/)
 
