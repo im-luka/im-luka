@@ -64,7 +64,7 @@
 
 <br />
 
-## 📊 GitHub Status
+## 📊 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=im-lux&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
