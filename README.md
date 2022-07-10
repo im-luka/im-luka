@@ -1,4 +1,4 @@
-## Heyy I'm Lux 🃏, nice to meet ya ✌️
+## Hi I'm Lux 🃏, nice to meet ya ✌️
 
 ### I am a passionate Full Stack Developer with an emphasis on Frontend ✨
 
