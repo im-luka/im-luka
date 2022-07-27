@@ -12,7 +12,7 @@
 
 - 🤖 All of my projects are available at [Recode X](https://recode-xy.web.app/)
 
-- 📫 The best way to reach me? LinkedIN!
+- 📫 The best way to reach me? [LinkedIn!](https://linkedin.com/in/lukadusak)
 
 - ⚡ When I'm not programming I probably play sports, video games or guitar
 
