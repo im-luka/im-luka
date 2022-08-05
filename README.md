@@ -1,6 +1,6 @@
 ## Hi I'm Lux 🃏, nice to meet ya ✌️
 
-### I am a passionate Full Stack Developer with an emphasis on Frontend ✨
+### I am a passionate Web Developer with an emphasis on Frontend ✨
 
 <hr />
 
