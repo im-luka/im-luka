@@ -1,4 +1,4 @@
-## Hi I'm Lux 🃏, nice to meet ya ✌️
+## Hi I'm Luka 🃏, nice to meet ya ✌️
 
 ### I am a passionate Web Developer with an emphasis on Frontend ✨
 
