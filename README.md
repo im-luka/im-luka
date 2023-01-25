@@ -12,7 +12,7 @@ I have tried various technology before dedicating myself entirely to Web & Front
 Looking back at the projects, some of them seem silly to me now but I use them as motivation and progress tracking. 
 We all start from somewhere.
 ```
-<hr />
+---
 
 #### 🎯 Main & Fav
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -40,13 +40,13 @@ We all start from somewhere.
 <a href="https://hashnode.com/@imluka"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
 <a href="https://codepen.io/im-luka"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
 
-<hr />
+---
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=im-luka.visitor-badge&left_color=black&right_color=purple)
 
 <p align="center"><img src="https://user-images.githubusercontent.com/46372998/211175435-36d932f2-6197-43db-933e-ab216d19b342.gif" /></p>
 
-<hr />
+---
 
 <details>
 <br />
@@ -121,7 +121,7 @@ We all start from somewhere.
 
 </details>
 
-<hr />
+---
 
 ```
 Looking forward to contributing, learning and getting better. Every single day. ⏳
