@@ -117,7 +117,8 @@ We all start from somewhere.
 
 → Work the hardest, give your absolute best in whatever you do & never quit 
 <blockquote><i>“It's hard to beat a person who never gives up.“</i> - Babe Ruth</blockquote>
-<br />
+  
+🪐
 
 </details>
 
