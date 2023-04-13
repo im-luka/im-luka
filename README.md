@@ -114,7 +114,7 @@ We all start from somewhere.
 → Learning everything about Web with an emphasis on Frontend  
 → Decided that 2023 is going to be the best year of my life  
 → Really into music - self-taught guitar player & learning music production  
-→ Apart from coding & music, very interested in sports, movies & reading books  
+→ Apart from coding & music, very interested in sports, movies, books & photography  
 
 → Work the hardest, give your absolute best in whatever you do & never quit 
 <blockquote><i>“It's hard to beat a person who never gives up.“</i> - Babe Ruth</blockquote>
