@@ -43,8 +43,6 @@ We all start from somewhere.
 
 ---
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=im-luka.visitor-badge&left_color=black&right_color=purple)
-
 <p align="center"><img src="https://user-images.githubusercontent.com/46372998/211175435-36d932f2-6197-43db-933e-ab216d19b342.gif" /></p>
 
 ---
