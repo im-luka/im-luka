@@ -1,11 +1,12 @@
 ### Hi I'm Luka ✌🏼
 
 ```
-I wasn't really active on GitHub in the last few years, so I decided to upload some of the stuff I have been working on.
+Here you can find lots of things I have been working on since my first development days.
 ```
 
 ```
-I have tried various technology before dedicating myself entirely to Web & Frontend.
+Emphasis is on Web & Frontend, but there is also much more → like game dev, mobile & desktop apps, ai & deep learning etc.
+Nothing comes close to it - (except maybe game dev, really loved it tho).
 ```
 
 ```
