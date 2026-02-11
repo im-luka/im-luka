@@ -11,7 +11,7 @@
     <a href="https://lukadusak.com">portfolio</a> ⌁
     <a href="https://dribbble.com/lukadusak">dribbble</a> ⌁
     <a href="https://linkedin.com/in/lukadusak">linkedin</a> ⌁
-    <a href="mailto:hi@lukadusak.com?subject=%5BGitHub%5D%20Let's%20create%20together&body=hey%20luka,%0D%0A%0D%0Ai%20found%20you%20through%20your%20CV%20and%20would%20love%20to%20connect.%0D%0A%0D%0AProject%20brief%0D%0A-%20inquiry%20type:%20new%20project%20/%20collaboration%20/%20consulting%20/%20other%0D%0A-%20company%20/%20brand:%0D%0A-%20website:%0D%0A-%20what%20you%20need:%0D%0A-%20timeline:%0D%0A-%20budget%20range:%0D%0A-%20references:%0D%0A%0D%0AContact%20details%0D%0A-%20name:%0D%0A-%20email:%0D%0A-%20timezone:%0D%0A%0D%0A~~%20%E2%9C%8E%20~~">email</a>
+    <a href="mailto:hi@lukadusak.com?subject=%5BGitHub%5D%20Let's%20create%20together&body=hey%20luka,%0D%0A%0D%0Ai%20found%20you%20through%20your%20github%20and%20would%20love%20to%20connect.%0D%0A%0D%0AProject%20brief%0D%0A-%20inquiry%20type:%20new%20project%20/%20collaboration%20/%20consulting%20/%20other%0D%0A-%20company%20/%20brand:%0D%0A-%20website:%0D%0A-%20what%20you%20need:%0D%0A-%20timeline:%0D%0A-%20budget%20range:%0D%0A-%20references:%0D%0A%0D%0AContact%20details%0D%0A-%20name:%0D%0A-%20email:%0D%0A-%20timezone:%0D%0A%0D%0A~~%20%E2%9C%8E%20~~">email</a>
   </p>
 </div>
 
@@ -40,7 +40,7 @@ _`macbook` ✎ `windsurf` ✎ `codex` ✎ `chatgpt` ✎ `notion` ✎ `warp` ✎ 
 
 ---
 
-_anyway, if you would like to create together or just say hi - reach out to me at ✧ [hi@lukadusak.com](mailto:hi@lukadusak.com?subject=%5BGitHub%5D%20Let's%20create%20together&body=hey%20luka,%0D%0A%0D%0Ai%20found%20you%20through%20your%20CV%20and%20would%20love%20to%20connect.%0D%0A%0D%0AProject%20brief%0D%0A-%20inquiry%20type:%20new%20project%20/%20collaboration%20/%20consulting%20/%20other%0D%0A-%20company%20/%20brand:%0D%0A-%20website:%0D%0A-%20what%20you%20need:%0D%0A-%20timeline:%0D%0A-%20budget%20range:%0D%0A-%20references:%0D%0A%0D%0AContact%20details%0D%0A-%20name:%0D%0A-%20email:%0D%0A-%20timezone:%0D%0A%0D%0A~~%20%E2%9C%8E%20~~)_  
+_anyway, if you would like to create together or just say hi - reach out to me at ✧ [hi@lukadusak.com](mailto:hi@lukadusak.com?subject=%5BGitHub%5D%20Let's%20create%20together&body=hey%20luka,%0D%0A%0D%0Ai%20found%20you%20through%20your%20github%20and%20would%20love%20to%20connect.%0D%0A%0D%0AProject%20brief%0D%0A-%20inquiry%20type:%20new%20project%20/%20collaboration%20/%20consulting%20/%20other%0D%0A-%20company%20/%20brand:%0D%0A-%20website:%0D%0A-%20what%20you%20need:%0D%0A-%20timeline:%0D%0A-%20budget%20range:%0D%0A-%20references:%0D%0A%0D%0AContact%20details%0D%0A-%20name:%0D%0A-%20email:%0D%0A-%20timezone:%0D%0A%0D%0A~~%20%E2%9C%8E%20~~)_  
 _or follow me on my socials_  
 _[dribbble](https://dribbble.com/lukadusak) ✧ [github](https://github.com/im-luka) ✧ [linkedin](https://www.linkedin.com/in/lukadusak) ✧ [instagram](https://www.instagram.com/dusak.luka) ✧ [strava](https://www.strava.com/athletes/124943056)_
 
