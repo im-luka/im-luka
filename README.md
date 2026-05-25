@@ -19,7 +19,7 @@
 
 _hey, im luka_
 
-_officially a senior frontend engineer, from recently_  
+_officially a senior frontend engineer_  
 _but id rather consider myself a creative, or at least like to think that way_
 
 _built lots of stuff_  
